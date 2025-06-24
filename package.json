@@ -2,7 +2,7 @@
   "name": "kermet",
   "author": "ehmpathy",
   "description": "Add a pit-of-success to your puppeteer operations with Kermet.",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "repository": "ehmpathy/kermet",
   "homepage": "https://github.com/ehmpathy/kermet",
   "keywords": [
